@@ -1,4 +1,4 @@
-# declaration_analysis.html
+# Declaration Of Independence
 A rhetorical study of the " Declaration of Independence" 
 <!DOCTYPE html>
 <html lang="en">
